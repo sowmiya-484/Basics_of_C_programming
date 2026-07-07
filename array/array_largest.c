@@ -7,7 +7,7 @@ int main()
 	{
 		scanf("%d",&a[i]);
 	}
-	for (i=0;i<10;i++)
+	for (i=1;i<10;i++)
 	{
 		if(a[i]>largest)
 		{
